@@ -1,4 +1,4 @@
 # php
 
 l5blog
-http://blog.asial.co.jp/iphone/1360
+http://blog.asial.co.jp/1360
